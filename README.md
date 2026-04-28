@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-success?style=for-the-badge" />
 </p>
 
-> **Aspiring Software Developer** focused on bridging the gap between intelligent algorithms and user-centric applications. [cite_start]Currently honing my skills at **Narula Institute of Technology** [cite: 15-16].
+> **Aspiring Software Developer** focused on bridging the gap between intelligent algorithms and user-centric applications. Currently honing my skills at **Narula Institute of Technology**.
 
 ---
 
@@ -23,26 +23,26 @@
 
 ### 🏆 Key Career Milestones
 
-#### 🏢 **Infosys Springboard | [cite_start]AI Intern** *Dec 2025 — Feb 2026* [cite: 64]
-- [cite_start]**Project VisionSafe:** Engineered an AI surveillance platform for behavioral-based safety monitoring in public parks[cite: 62].
-- [cite_start]Used Computer Vision to differentiate between safe and unsafe activities to provide real-time alerts[cite: 62].
+#### 🏢 **Infosys Springboard | [cite_start]AI Intern** *Dec 2025 — Feb 2026* 
+- **Project VisionSafe:** Engineered an AI surveillance platform for behavioral-based safety monitoring in public parks.
+- Used Computer Vision to differentiate between safe and unsafe activities to provide real-time alerts.
 
 #### 🤖 **AICTE - Edunet | AI & ML Intern**
-[cite_start]*June 2025 — July 2025* [cite: 53]
-- [cite_start]Developed predictive ML models and optimized data preprocessing pipelines using Python[cite: 43].
+*June 2025 — July 2025* 
+- Developed predictive ML models and optimized data preprocessing pipelines using Python.
 
 #### 📱 **AICTE - EduSkills | Android Developer Intern**
-[cite_start]*July 2025 — Sept 2025* [cite: 54]
-- [cite_start]Built Java-based mobile applications supported by **Google for Developers** [cite: 46-47].
+*July 2025 — Sept 2025* 
+- Built Java-based mobile applications supported by **Google for Developers**.
 
 ---
 
 ### 🚀 Highlighted Repositories
 
-- [cite_start]🛡️ **[VisionSafe](https://github.com/RohitBanik-321)**: Real-time park monitoring via AI behavior analysis[cite: 62].
-- [cite_start]🧠 **[Mental Health Chatbot](https://github.com/RohitBanik-321)**: NLP-powered sentiment analysis and distress alert system [cite: 30-31].
-- [cite_start]📉 **[Salary Predictor](https://github.com/RohitBanik-321)**: ML model for professional compensation estimation .
-- [cite_start]⚠️ **[IoT Gas Detector](https://github.com/RohitBanik-321)**: Safety hardware utilizing MQ-2 sensors and GSM alerts [cite: 37-38].
+- 🛡️ **[VisionSafe](https://github.com/RohitBanik-321)**: Real-time park monitoring via AI behavior analysis.
+- 🧠 **[Mental Health Chatbot](https://github.com/RohitBanik-321)**: NLP-powered sentiment analysis and distress alert system.
+- 📉 **[Salary Predictor](https://github.com/RohitBanik-321)**: ML model for professional compensation estimation.
+- ⚠️ **[IoT Gas Detector](https://github.com/RohitBanik-321)**: Safety hardware utilizing MQ-2 sensors and GSM alerts.
 
 ---
 
