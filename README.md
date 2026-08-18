@@ -46,12 +46,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitBanik-321&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitBanik-321&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/rohitbanik990)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:banikrohit822@gmail.com)
